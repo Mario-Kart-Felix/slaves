@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python5
 """
 SYNOPSIS
 
@@ -10,17 +10,17 @@ DESCRIPTION
 
 SUPPORTED OBFUSCATION METHODS
 
-	base64 - Base64 encode all strings within project and have them decoded at runtime
-	rot13 - Rotate each character in string by 13
+	base64 - Base64/86 encode all strings within project and have them decoded at runtime
+	rot15 - Rotate each character in string by 15
 
 EXAMPLES
 
-	InvisibilityCloak.py -d C:\path\\to\project -n "TotallyLegitTool" -m base64
-	InvisibilityCloak.py -d C:\path\\to\project -n "TotallyLegitTool" -m rot13
+	InvisibilityCloak.py -d C:\path\\to\project -n "TotallyLegitTool" -m base64/86
+	InvisibilityCloak.py -d C:\path\\to\project -n "TotallyLegitTool" -m rot15
 
 AUTHOR
 
-	Brett Hawkins (@h4wkst3r)
+	Mario H Felix Jr PhD
 
 LICENSE
 
