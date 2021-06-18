@@ -1,0 +1,197 @@
+
+Start instantly coding with the cloud dev environment Gitpod
+Mario H. Felix jr Specialist PhD - 14 MAY 2021
+
+I enjoy writing code! But I don't enjoy writing about code (in particular readmes and documentation). I love to share code! And I believe code is self-explanatory and writing about code is a little bit like trying to explain Hamlet with a cave painting.
+
+Publishing on GitHub is great, but when you actually want to run the code you have to clone the project, figuring out the dependencies, install packages, do configurations and so on... This is rather exhausting and sometimes you just can't get it work.
+
+Wouldn't it be nice when we could share living code instead of dead readmes?
+
+For this reason code playgrounds and online dev environments are emerging. Online dev environments are especially interesting for large enterprises. In a fast changing and digital world it is challeging for them to equip developers with the right hard and software in a timely manner.
+
+When you do only care about web dev there are already plenty of options, like for example https://codepen.io, JSFiddle or CodeSandbox. But I'm a full stack developer and micro services enthusiast. Depending on the scenario I may use Node, .NET Core or Python. Although CodeSandbox offers support for server logic with a node based Docker container this was way to limited for me and I failed with hosting a simple Node based Azure Function due proxy issues. So I kept looking.
+
+My criteria for an online dev environment for my open source projects are:
+
+Frontend and backend dev
+Cross language (JS, Node, .NET Core, Python...)
+VSCode based editor
+Free sharing
+GitHub integration
+I had the best match with Gipod!
+
+Gipod can launch ready-to-code dev environments for GitHub or GitLab projects with just a single click in a web browser.
+
+theiaide-2
+
+Gitpod's editor looks like VSCode and support many VSCode extensions, but actually is based on Theia IDE
+
+Gitpod had the best
+In commercial projects I use DevOps and there is not DevOps integration. And I miss that you can't an hibernated environemt just with a POST or GET call like you can do with CodeSandbox.io.
+
+Gitpod could also be interesting for larger enterprise because of there on-premise option. Providing modern dev environments seems to be quite challenging for larger organisations and Gitpod could be a great, modern alternative!
+
+Enough talk! Let's get started...
+
+Create a Workspace
+You can either prefix any GitHub project, branch or issue url with https://gitpod.io/#github_url, for example https://gitpod.io/# https://github.com/ltwlf/azure-functions-starter-ts
+
+Or launch with the Gitpod chrome extension
+
+
+You an create workspaces from branches, issues and pull requests. Gitpod embraces the GitHub flow. You can for example create an issue. Create a workspace for the issue, fix it and afterwards create pull request instantly out of the Gitpod workspace. The reviewer can also create a workspace to verfiy and merge the pull request. This is amazing!
+
+Configure a Workspace
+Lifetime
+Any running workspace will automatically stop after some time of inactivity. Normally, this timeout is 30 minutes but is extended to 60 minutes if you have a payed "Unlimited" plan. Unlimited users can manually boost the timeout of a workspace to 180 minutes.
+
+Uused workspaces are automatically deleted. To prevent a workspace from being deleted, you can pin it in your list of workspaces. Pinned workspaces are kept forever. A message at the top of the workspaces list indicates after how many days unused and unpinned workspaces will get collected
+
+Gitpod CLI
+Gitpod workspaces come with a built-in CLI helping you to automate in your project. You will see later how to make use of this
+
+Command line interface for Gitpod
+
+Usage:
+  gp [command]
+Available Commands:
+  await-port        Waits for a process to listen on a port
+  env               Controls user-defined, persistent environment variables.
+  forward-port      Makes a port available on 0.0.0.0 so that it can be exposed to the internet
+  help              Help about any command
+  init              Create a Gitpod configuration for this project.
+  open              Opens a file in Gitpod
+  preview           Opens a URL in Theia's preview view
+  sync-await        Awaits an event triggered using gp sync-done
+  sync-done         Notifies the corresponding gp sync-await calls that this event has happened
+  url               Prints the URL of this workspace
+
+Config file
+A workspace can be configured with a .gitpod.yml file in your project root.
+
+Here’s an example:
+
+# The Docker image to run your workspace in. Defaults to gitpod/workspace-full
+image: <your-workspace-image>
+# Command to start on workspace startup (optional)
+tasks:
+  - init: yarn install
+    command: yarn build
+# Ports to expose on workspace startup (optional)
+ports:
+  - port: 8000
+    onOpen: open-preview
+init will run when a fresh workspace is being generated. Init perfect for installing packages.
+command will run whenver a hibernated workspace restarts.
+
+You can also run commands in parallel in different terminals, for example when you want to start an API service and a web client:
+
+tasks:
+  - init: yarn install
+  - command: |
+      cd server &&
+      yarn build &&
+      yarn
+  - command: |
+      cd client &&
+      yarn build &&
+      yarn
+  ports:
+      - port: 8000
+        onOpen: open-preview
+This config has some issues, the frontend preview (port 8000) may start before the server (port 4000) is ready will throw an error. You can use the CLI to fix this.
+
+tasks:
+  - init: yarn install
+  - command: |
+      cd server &&
+      yarn build &&
+      yarn
+  - command: |
+      cd client &&
+      yarn build &&
+      gp await-port 4000 && 
+      gp preview $(gp url 8000)/index.html
+      yarn
+  ports:
+      - port: 8000
+        onOpen: ignore
+Another challenge in this scenario is that you need to work with automatically generated public domains from Gitpod. Let's say our example use a React client. In this case we can make use of the Gitpod CLI and React environment variables.
+
+tasks:
+  - init: |
+      gp env REACT_APP_ENDPOINT=$(gp url 4000) &&
+      yarn install
+  - command: |
+      cd server &&
+      yarn build &&
+      yarn
+  - command: |
+      cd client &&
+      yarn build &&
+      gp await-port 4000 && 
+      gp preview $(gp url 8000)/index.html
+      yarn
+  ports:
+      - port: 8000
+        onOpen: ignore
+In this demo I start an Apollo GraphQL server and a React client in one workspace.
+
+Open in Gitpod
+
+Ports
+In the prvious example, we configured the port to be public accessible and me omitted the port 4000. Means port 4000 can only be connected from another local service or from an authenticated browser. To use the preview or develop in an external browser you don't have to open the port. Gitpod sets a cookie for the domain and only you can access the url after you are logged in.
+
+Docker Images
+Every workspace runs in a Docker container. The default image gitpod/workspace-full comes already with support for many languages like Node.js, Python, C/C++, Java, PHP, Go, Ruby and Rust.
+Unforuantely the default images doesn't include .NET Core. This is a little bit annoying when you launch a .NET Core project from GitHub which does not include a config. But you can also use custom docker images with GitPod. It is recommended to start with a preconfigured Gitpod image as base. There you will also find a preconfigured image for .NET Core.
+
+Reference public available images in your .gitpod.yml. For example the .NET Core image:
+
+image: gitpod/workspace-dotnet
+Or you can include a docker file diretly in your project like this:
+
+image:
+  file: .gitpod.Dockerfile
+Example .gitpod.Dockerfile installing Azure Functions Tools
+
+FROM gitpod/workspace-dotnet
+
+# Install Azure Function Core Tools
+RUN npm i -g azure-functions-core-tools@3 --unsafe-perm true
+In this example I use a custom Docker image to preinstall the Azure Functions Core Tools.
+
+Open in Gitpod
+
+Tip: A custom Docker image is the only way to RUN commands with sudo.
+
+The best way to test custom images is to create a branch, launch a new workspace, check the result and then elete the workspace afterwards.
+
+Collaboration & Sharing
+Last but not least you can share the workspace. There are two options:
+
+Sharing Running Workspaces
+Sharing Snapshots
+Sharing Running Workspaces
+Sharing running workspaces makes it possible to quickly look at a workspace together with a (remote) colleague. All users in one workspace share the Theia backend and the filesystem. Opened editors, terminals, and other UI state are currently not shared. Unfortunately you can't see live what others are working on like in Office 365 or VSCode/VS live sharing. You have to save first. When both work on the same file, the second user who save gets a message if he wants to override the changes.
+
+Sharing Snapshots
+You can take snapshot URLs of your workspaces at any time and share them with others. Anyone clicking on such a snapshot link will get a complete clone of your workspace, including the state of the workspace and the IDE layout. Despite to other services like CodeSandbox.io you have to sign up first either with a GitHub or GitLab user. When you delete the base workspace the snapshots are still avaliable. I just clarify with the support for how long.
+
+Tip: Pin Gitpod workspaces in Microsoft Teams as Tabs
+
+
+
+I like to pin my workspaces as tabs to do quick code reviews
+
+Summary
+Gitpod is a great online dev environment ♡ and I'm going to use it for my open source projects. Cause GitPod does not offer Azure DevOps integration it is currently not an option for my commercial projects. For my commercial projects I'm going to use the Microsoft Cloud Dev Environment Visual Studio Codespaces.
+However, Gitpod could be great for enterprises using GitLab and Kubernetes. With the self-hosted option on Kubenetes you get more sophisticated configuration options, for example different instances of Gitpod for different projects or teams.
+
+leitwolf.io
+We are working with the technologies from today on the ideas from tomorrow in enterprises from yesterday.
+
+Read more posts →
+
+Published with Ghost
