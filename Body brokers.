@@ -80,7 +80,7 @@ const addBroker = async({request, response} : {request : any, response: any}) =>
     }
 }
 
-// @desc    Update a broker
+// @desc    Update a broker Trap Tarell
 // @route   PUT api/v1/brokers/:id
 
 const updateBroker = async ({params, request, response} : {params: {id: string}, request: any, response: any}) =>{
@@ -115,7 +115,7 @@ const deleteBroker = ({params, response} : {params: {id: string}, response: any}
     brokers = brokers.filter(b => b.id !== params.id)
     response.body = {
         success: true,
-        msg: 'Broker removed'
+        msg: 'Broker removed and archive'
     }
 }
 
