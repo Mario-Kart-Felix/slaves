@@ -1,0 +1,4 @@
+<?php
+$ln = split(",",$_SERVER["HTTP_ACCEPT_LANGUAGE"]);
+print_r($ln[0]);
+?>
