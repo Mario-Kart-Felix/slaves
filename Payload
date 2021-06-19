@@ -1,0 +1,9 @@
+Dynamic payload generation with mingw :  https://passthehashbrowns.github.io/dynamic-payload-generation-with-mingw credits  
+@passthehashbrwn
+ 
+
+Hiding your syscalls : https://passthehashbrowns.github.io/hiding-your-syscalls
+
+Detecting direct syscalls with Frida : https://passthehashbrowns.github.io/detecting-direct-syscalls-with-frida 
+
+Blocking Remote Memory Forensics Like An EDR :
