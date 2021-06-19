@@ -1,0 +1,5 @@
+The admin panel is protected by password authentication. I know some routers use CGI scripts like PayPal use in their websites. I tried to access common pages in the router by appending .cgi at the end of URL. Luckily I got the page info.cgi opened without asking authentication. I got few other pages also which can be accessed in the same way.
+Steps
+
+    Suppose 192.168.1.1 is the router IP, then the password reset page is http://192.168.1.1/password.html by default
+    This page is a protected page which can be bypassed by changing URL extension as http://192.168.1.1/password.cgi
