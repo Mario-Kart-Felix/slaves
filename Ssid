@@ -1,0 +1,71 @@
+We get it. Wi-Fi is supposed to be easy but sometimes it can feel pretty complicated. Making it work involves a lot of tech speak— SSIDs, WLANs, routers, different passwords—it can feel you’re being asked to understand foreign language.
+
+There’s no reason to get frustrated though—we’re going to go over some common questions and give you answers to get you up and running in no time.
+
+My device is asking for my network SSID—what is it?
+SSID stands for Service Set Identifier. In real English this means the unique wireless network name assigned to your router. Sure, that name is a jumble of 32 characters, but that’s for a good reason—because there are so many wireless networks out there, the SSID helps make sure data gets sent to the right place.
+
+Where is my SSID?
+As you set up new devices on your home network, you may be asked to provide the SSID number. How can you find it? There are two places you can you can look:
+
+On your device: Look at the sticker on your wireless modem.
+SSID_highlight
+
+ 
+
+On your computer: Wikihow tells you how to find your network SSID on a Windows machine and a Mac.
+Wi-Fi tech tip: You can, and probably should, change your wireless network name from the default SSID to something you’ll remember (see instructions below). Why should you? For security. The factory-given SSID name could give a clever thief hints about the brand of your hardware you’re using, thus possibly help him/her sneak in.
+
+Where is my default wireless password?
+Once you have your network name/SSID, you’ll also need your network’s password. Every device has a default password, so if you haven’t changed it, look at the bottom of your modem/router—it’s probably there. If it’s not, also take a peek at the instructions that came with your device.
+
+Important note: Your password, depending on what device you’re connecting to your network, could be referred to as the Wi-Fi Security Key, a WEP or WPA Key (like in the photo above), or a WPA/WPA2 Passphrase. These are just other names for the password on your modem or router.
+
+Still no luck? Well, this is where you might have to call in the experts (you can reach TDS support by calling 1-888-225-5837), Another option, if you’re feeling comfortable/brave, is to pretend to be an expert and use some advice on resetting your password using some advice from How To Geek.
+
+Important note: Changing your default password is also a good idea for security reasons (see instructions below). Again, don’t use bad passwords (i.e. NOT “12345”) and changing it frequently is a good idea.
+
+How can I change my wireless network name or password?
+Hold it—before you change it, consider what name you’re going to choose. A clever or fully name for your network may be tempting, do follow some best practices. Don’t use personally meaningful dates (you don’t necessarily want to share those with everyone for security reasons), or numbers (we’re looking at you, person with their phone number as their Wi-Fi network name), and don’t name it something so awesome it’s tempting to hack (yeah, boring wins in this case).
+
+Here’s how to change your wireless network name (SSID) and passphrase on an Actiontec 784 (one of our most commonly used devices), assuming you have already connected your computer to the Actiontec, either with an Ethernet cable or wirelessly:
+
+1. Open your web browser (Examples: Internet Explorer, Chrome, Firefox). In the address bar, type in http://192.168.0.1
+
+change network name 1
+
+2. This will bring you to the modem’s setup page. On this page, click the “Wireless Setup” button.
+
+change network name 2
+
+3. On the wireless basic page, you can change the default settings to something that’s easier to remember.
+
+In the “SSID Name” box, type in what name you’d like to use for your wireless network. This is what you will see in the list of available wireless networks.
+For the “Security Key Type” setting, click the radio button next to “Use Custom Key/Passphrase.” Then type what you want to use as your password in the box below. This will be your wireless password. In order for anyone to be able to connect to your wireless network, they will need to use this password. Your password has to be at least eight characters long. It is case-sensitive, so if you use any capital letters when creating your password, you will need to use them when connecting too.
+Note: Please, don’t use “password” or “123456” as your password! (In fact, if it appears on this list, don’t use it!). Do your best to use a combination of letters, numbers, and symbols. An easy way to do it is to do a play on a random word so rather than “Pineapple” do P1ne@apple. The key is to choose a random word, not one people would guess and try different combinations of.
+
+After you have changed your settings, click the “Apply” button.
+change network name 3
+
+4. You will see a confirmation screen after clicking apply. You can now exit your browser.
+Note: if you made these changes from a wireless device, you will notice that you are no longer connected to the Internet. This is because you have just changed your wireless network settings—the network you were connected to doesn’t exist anymore! At this point, you will have to reconnect to the wireless network, using your new, personalized settings.
+
+change network name 4
+Need more help? We offer advanced Wi-Fi troubleshooting as part of our Remote PC Support service. You can sign up for one-time help, or you can have our techs available to you all year long with a monthly subscription. Note: They’ll not only help you with Wi-Fi, they’ll also optimize your PC, help you with device set up (even printers!), plus clear your machine of pop-ups and viruses.
+
+Other terms you might run across, explained:
+LAN: Local Area Network. A computer network that exists in a defined area, such as room, a building, or maybe a group of buildings.
+
+Modem: A modem is the device that connects you to the Internet. It plugs into the infrastructure where you live—coaxial cable, copper wire, fiber, or satellite—and connects you, through our network, to the greater Internet.
+
+Router: A router is a device that connects to your modem to “share” the Internet with the Wi-Fi enabled devices on your home. Because the router sits between your devices and the Internet, it also acts as an extra layer of security.
+
+WEP: Wired Equivalent Privacy. It’s a security standard for Wi-Fi, but although it’s widely used it’s the least secure of the bunch. Look for WPA or WPA2 instead.
+
+Wireless modem: Here’s where it gets a bit tricky: if your modem is a wireless modem, it’s acting as both a modem AND a router. A single device is connecting you to the Internet and sharing it.
+
+WLAN: Wireless local area network. When you set up Wi-Fi in your home that’s what you’re doing. Creating your very own mini WLAN.
+
+WPA: Wi-Fi Protected Access. It’s a security standard for encrypting data over Wi-Fi that increases safety. You’ll also see WPA2 – it’s the same idea, but a newer standard.
+
+WPA Key or Security Key: This is the password to connect your wireless network. It’s also called a Wi-Fi Security Key, a WEP Key, or a WPA/WPA2 Passphrase. This is another name for the password on your modem or router.
