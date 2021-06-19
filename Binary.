@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash sample
 set -e
 
 # This if stack-enabled fork of https://github.com/ekmett/lens/blob/master/scripts/hackage-docs.sh
