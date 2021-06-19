@@ -1,0 +1,75 @@
+1563336052697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4leLVrySYXhQ"
+1563336053095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563336053095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563336053095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563336054635	Marionette	INFO	Listening on port 44663
+1563336054714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563336062361	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:17879
+ajax@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:15044
+domManip/<@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:2470
+each@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:11776
+domManip@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:2441
+append@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:3:32408
+html/<@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:1283
+access@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:13266
+html@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:876
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:998:36
+o@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:14733
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:15502
+w@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:12472
+d@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:18318
+1563336067679	Marionette	INFO	Stopped listening on port 44663
+[Parent 26359, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-ubqoiK/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26359, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-ubqoiK/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1563336367208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MlTQO1MUYmL5"
+1563336367632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563336367632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563336367632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563336369282	Marionette	INFO	Listening on port 39057
+1563336369317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563336375982	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:17879
+ajax@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:15044
+domManip/<@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:2470
+each@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:11776
+domManip@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:2441
+append@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:3:32408
+html/<@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:1283
+access@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:13266
+html@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:876
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:991:36
+o@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:14733
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:15502
+w@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:12472
+d@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:18318
+1563336381335	Marionette	INFO	Stopped listening on port 39057
+[Parent 28133, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-ubqoiK/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 28133, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-ubqoiK/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1563339266532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mVhTTEaRSwCb"
+1563339266823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563339266823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563339266823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563339268164	Marionette	INFO	Listening on port 33013
+1563339268275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563339275777	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:17879
+ajax@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:15044
+domManip/<@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:2470
+each@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:11776
+domManip@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:2441
+append@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:3:32408
+html/<@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:1283
+access@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:13266
+html@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:876
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:998:36
+o@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:14733
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:15502
+w@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:12472
+d@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:18318
+1563339279328	Marionette	INFO	Stopped listening on port 33013
+[Parent 808, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-ubqoiK/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 808, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-ubqoiK/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
