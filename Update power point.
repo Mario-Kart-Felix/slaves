@@ -309,9 +309,4 @@ You can only run Update-Module on modules that you installed from the online gal
 
 If Update-Module attempts to update binaries that are in use, Update-Module returns an error that identifies the problem processes. The user is informed to retry Update-Module after the processes are stopped.
 
-Related Links
-Find-Module
-Get-InstalledModule
-Install-Module
-Publish-Module
-Uninstall-Module
+
