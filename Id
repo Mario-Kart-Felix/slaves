@@ -1,0 +1,26 @@
+      "id": "1227640996038684673",
+      "text": "Doctors: Googling stuff online does not make you a doctor\n\nDevelopers: https://t.co/mrju5ypPkb"
+    },
+    {
+      "author_id": "2244994945",
+      "created_at": "2019-11-27T20:26:41.000Z",
+      "id": "1199786642791452673",
+      "text": "C#"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2013-12-14T04:35:55.000Z",
+        "id": "2244994945",
+        "name": "Twitter Dev",
+        "username": "TwitterDev"
+      }
+    ]
+  }
+}
+Next steps
+Customize your request using the API Reference
+Learn how to measure Tweet performance
+Reach out to the community for help
+Check out some sample code for these endpoints
