@@ -1,0 +1,75 @@
+
+//
+ 
+Documentation
+Getting started
+Tutorials
+Tools and libraries
+Migrate
+API reference index
+The new Twitter API
+v2
+Fundamentals
+Tweets
+Tweet lookup
+Search Tweets
+Timelines
+Filtered stream
+Sampled stream
+Likes
+Hide replies
+Users
+Enterprise
+Gnip 2.0
+Fundamentals
+PowerTrack API
+Decahose API
+Account Activity API
+Search API
+Historical PowerTrack API
+Engagement API
+Compliance Firehose API
+Usage API
+Premium
+v1.1
+Fundamentals
+Search API
+Account Activity API
+Standard
+v1.1
+Fundamentals
+Tweets
+Users
+Direct Messages
+Media
+Trends
+Geo
+Developer utilities
+Tweet lookup
+Introduction
+Quick start
+Migrate
+API reference
+This endpoint was recently graduated from Twitter Developer Labs, and is the replacement of  v1.1 statuses/show, v1.1 statuses/lookup, and Labs Tweet lookup. If you are currently using any of these endpoints, you can use our migration materials to start working with this new endpoint. 
+Learn more about the new Twitter API v2: Early Access.
+
+Introduction
+The Tweet is one of the primary resources on Twitter. In its simplest form, a Tweet can contain up to 280 characters and can be posted either publicly or privately, depending on an account’s settings. However, a variety of different objects can also be attached to Tweet, including media, a place, polls, and URLs. 
+
+While there are a variety of different HTTP, selection, and delivery methods that can deliver, publish, and act upon Tweets, this group of REST endpoints simply returns a Tweet or group of Tweets, specified by a Tweet ID. While simple, these endpoints can be used to receive up-to-date details on a Tweet, verify that a Tweet is available, or update stored details following a compliance event.
+
+These endpoints utilize the GET HTTP method and return one or many Tweet objects, which deliver fields such as the Tweet text, created at date, included URLs and more. 
+ 
+
+To access these endpoints, you must have an approved developer account. When authenticating, you must use keys and tokens from a developer App that is located within a Project. 
+
+Learn more about getting access to the Twitter API v2 endpoints in our "Getting started" page.
+ 
+
+Quick start
+Sample code
+Run in Postman
+Supporting resources
+Learn how to use Postman to make requests
+Troubleshoot an error
+Visit the API reference page for this endpoint
