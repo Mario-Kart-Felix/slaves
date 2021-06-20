@@ -1,0 +1,157 @@
+
+//
+ 
+Documentation
+Getting started
+Tutorials
+Tools and libraries
+Migrate
+API reference index
+The new Twitter API
+v2
+Fundamentals
+Tweets
+Tweet lookup
+Search Tweets
+Timelines
+Filtered stream
+Sampled stream
+Likes
+Hide replies
+Users
+Enterprise
+Gnip 2.0
+Fundamentals
+PowerTrack API
+Decahose API
+Account Activity API
+Search API
+Historical PowerTrack API
+Engagement API
+Compliance Firehose API
+Usage API
+Premium
+v1.1
+Fundamentals
+Search API
+Account Activity API
+Standard
+v1.1
+Fundamentals
+Tweets
+Users
+Direct Messages
+Media
+Trends
+Geo
+Developer utilities
+Tweet lookup
+Introduction
+Quick start
+Migrate
+API reference
+Migrate contents 
+Standard v1.1 compared to Twitter API v2
+Comparing Twitter API’s Tweet lookup endpoints
+The v2 Tweet lookup endpoints will replace the standard v1.1 GET statuses/lookup and GET statuses/show endpoints, as well as the Labs Tweet lookup endpoints. If you have code, apps, or tools that use one of these versions of the Tweet lookup endpoint, and are considering migrating to the newer Twitter API v2 endpoint, then this set of guides is for you. 
+
+These guides will focus on the following areas:
+API request parameters -  The Twitter API v2 endpoint introduces a new set of request parameters. While some parameters will be familiar, especially for those integrating with Labs, there are many important differences such as the introduction of the fields and expansions parameters
+New JSON format - Twitter API v2 introduces a completely new JSON format. Any code that parses v1.1 standard, premium, and enterprise JSON payloads will need to be updated to work with the new formats.
+App and Project requirements - To access the Twitter API v2, you will need to use credentials from a developer App that is associated with a Project. 
+
+The following tables compare the various types of Twitter Tweet lookup endpoints:
+ 
+
+Description
+
+Standard v1.1
+
+Labs
+
+Twitter API v2
+
+HTTP methods supported
+
+GET	GET	GET
+Host domain
+
+https://api.twitter.com	https://api.twitter.com	https://api.twitter.com
+Endpoint path
+
+/1.1/statuses/show.json /1.1/statuses/lookup.json	/labs/2/tweets	/2/tweets
+Authentication
+
+OAuth 1.0a User Context
+
+OAuth 1.0a User Context
+
+OAuth 2.0 Bearer Token
+
+OAuth 1.0a User Context
+
+OAuth 2.0 Bearer Token
+
+Default request rate limits
+
+Both
+900 requests per 15 min with OAuth 1.0a User Context
+
+statuses/show
+900 requests per 15 min with OAuth 2.0 Bearer Token
+
+statuses/lookup
+300 requests per 15 min with OAuth 2.0 Bearer Token
+
+900 requests per 15 min
+
+900 requests per 15 min with OAuth 1.0a User Context
+
+300 requests per 15 min with OAuth 2.0 Bearer Token
+
+Maximum Tweets per response 
+
+statuses/show -  1
+
+statuses/lookup - 100
+
+100
+
+100
+
+Tweet JSON format
+
+Native (soon to be referred to as 'legacy')
+
+Labs v2 (determined by fields and expansions request parameters, not backward-compatible with v1.1 formats)
+
+Twitter API v2 (determined by fields and expansions request parameters, not backward-compatible with v1.1 formats)
+
+Supports selecting which fields return in the payload
+
+ 	
+✔
+
+✔
+
+Supports the annotations fields	 	✔	✔
+Supports requesting new metrics fields	 	✔	✔
+Supports the conversation_id field	 	 	✔
+Requires the use of credentials from a developer App associated with a project	 	 	✔
+Other migration resources
+Tweet lookup: Standard v1.1 to Twitter API v2
+Twitter API migration hub
+Check out some sample code for these endpoints
+Was this document helpful?
+Yes
+No
+Thank you
+Thank you for the feedback. We’re really glad we could help!
+Thank you for the feedback. How could we improve this document?
+This page is missing information.
+The information was hard to follow or confusing.
+There is inaccurate information.
+There is a broken link or typo.
+Thank you for the feedback. Your comments will help us improve our documents in the future.
+DEVELOPER POLICY AND TERMS
+FOLLOW @TWITTERDEV
