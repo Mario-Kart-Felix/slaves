@@ -1,0 +1,4508 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfInstrumentData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <InstrumentData>
+    <InstrumentId>3</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>AQYK</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JM0170271079</ISIN>
+    <Description>EPPLEY LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>EPLY</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>4</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>KOUA</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201200016</ISIN>
+    <Description>$K.L.E. GROUP LIMITED ORDINARY SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>KLE</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>5</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>AXNJ</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201200024</ISIN>
+    <Description>7CONSOLIDATED BAKERIES (JAMAICA) LIMITED ORDINARY SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00043</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>PURITY</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>6</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>PGHS</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201200032</ISIN>
+    <Description>3PARAMOUNT TRADING (JAMAICA) LIMITED ORDINARY SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00105</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>PTL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>7</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>FPBD</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300014</ISIN>
+    <Description>'CARIBBEAN CREAM LIMITED ORDINARY SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00040</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>KREMI</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>8</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>MHPB</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300022</ISIN>
+    <Description>&amp;JAMAICA STOCK EXCHANGE ORDINARY SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00022</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JSE</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>9</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>SXEA</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300048</ISIN>
+    <Description>1JMMB CUMULATIVE REDEEMABLE 7.5% PREFERENCE SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00035</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JMMB7.5</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>10</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>IHXJ</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300055</ISIN>
+    <Description>2JMMB CUMULATIVE REDEEMABLE 7.25% PREFERENCE SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JMMB7.25</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>11</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>XQQS</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300063</ISIN>
+    <Description>4CARIBBEAN FLAVOURS &amp; FRAGRANCES LTD. ORDINARY SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00041</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>CFF</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>12</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>NAKC</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300097</ISIN>
+    <Description>=JPSCO 9.5% CUMULATIVE NON-REDEEMABLE CLASS F PREFERENCE SHARE</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JPS9.5</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>13</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>DJEL</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300105</ISIN>
+    <Description>.SAGICOR REAL ESTATE X FUND LTD ORDINARY SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00030</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>XFUND</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>14</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>XIKP</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300121</ISIN>
+    <Description>.EPPLEY CUMULATIVE REDEEMABLE PREFERENCE SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>EPLY9.5</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>15</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>EYYN</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300139</ISIN>
+    <Description>*SAGICOR GROUP JAMAICA LTD. ORDINARY SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00029</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>SJ</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>CONGLOMERATES</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>16</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>DAWI</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300147</ISIN>
+    <Description>)DERRIMON TRADING CO. LTD. ORDINARY SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00091</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>DTL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>RETAIL</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>17</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>JRMH</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300154</ISIN>
+    <Description>3MEDICAL DISPOSABLES &amp; SUPPLIES LTD. ORDINARY SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00054</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>MDS</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>RETAIL</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>18</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>YBFQ</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300170</ISIN>
+    <Description>"KNUTSFORD EXPRESS SERVICES LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00051</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>KEX</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>19</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>XCDK</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201400012</ISIN>
+    <Description>MARGARITAVILLE (TURKS) LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00023</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>MTL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>USD MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>TOURISM</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>20</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>JVJY</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201400020</ISIN>
+    <Description>JMMB GROUP LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00023</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JMMBGL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>21</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>EUQD</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201400038</ISIN>
+    <Description>/SWEET RIVER ABATTOIR &amp; SUPPLIES COMPANY LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00107</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>SRA</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>22</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>TEJM</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201400046</ISIN>
+    <Description>STERLING INVESTMENTS LTD </Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00081</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>SIL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>23</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>FWPB</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201400053</ISIN>
+    <Description>;EPPLEY LIMITED CUMULATIVE REDEEMABLE PREFERENCE SHARES 2019</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>EPLYSTP</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>24</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>EYOU</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201400061</ISIN>
+    <Description>"138 STUDENT LIVING JAMAICA LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00004</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>138SL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>25</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>KPDT</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201400079</ISIN>
+    <Description>=138 STUDENT LIVING JA. LTD CUMULATIVE REDEEMABLE PREFERENCE S</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>138SLVR</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>26</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>JQBN</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201500027</ISIN>
+    <Description>=DERRIMON TRADING CO. LTD CUMULATIVE REDEEMABLE PREFERENCE SHA</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00025</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>DTL11.75</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>RETAIL</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>27</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>EDLN</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201500084</ISIN>
+    <Description>CAC 2000 LIMITED </Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00039</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>CAC</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>RETAIL</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>28</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>IGBX</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201600017</ISIN>
+    <Description>TTECH LIMITED </Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00055</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>TTECH</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>29</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>WPAN</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201600025</ISIN>
+    <Description>&amp;JMMB GROUP 6.00% USD PREFERENCE SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00008</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JMMBGLUSD6.00</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>USD MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>30</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>TDYT</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201600033</ISIN>
+    <Description>&amp;JMMB GROUP 5.75% USD PREFERENCE SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00057</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JMMBGLUSD5.75</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>USD MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>31</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>FWFI</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201600041</ISIN>
+    <Description>)JMMB GROUP 7.50% VR JMD PREFERENCE SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JMMBGL7.50</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>32</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>UGXR</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201600058</ISIN>
+    <Description>)JMMB GROUP 7.25% VR JMD PREFERENCE SHARES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00036</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JMMBGL7.25</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>33</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>LPRB</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201600066</ISIN>
+    <Description>"IRONROCK INSURANCE COMPANY LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00095</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>ROC</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>INSURANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>34</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>BYLK</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201600074</ISIN>
+    <Description>ISP FINANCE SERVICES LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00047</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>ISP</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>35</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>QIET</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201600082</ISIN>
+    <Description>JETCON CORPORATION LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00049</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JETCON</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>RETAIL</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>36</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>KGLX</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201600090</ISIN>
+    <Description>KEY INSURANCE COMPANY LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00050</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>KEY</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>INSURANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>37</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>2</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>FSVX</Instrument>
+    <InstrumentClass>&#x4;</InstrumentClass>
+    <ISIN>JMN201300072</ISIN>
+    <Description>=JAMT JMD FIXED &amp; FLOATING RATE SECURED CORPORATE NOTES DUE IN</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2017-11-06T00:00:00</MaturityDate>
+    <ValuationMethod>3</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2014-01-20T00:00:00</IssueDate>
+    <InflationIndex>C</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00059</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JAMTVR2017</DisplayName>
+    <NumberOfDaysInYear>365</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>4</BondFormulaDecimalPlaces>
+    <CouponRate>8.5</CouponRate>
+    <Classification>BOND MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector />
+    <SecurityType />
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>38</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>2</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>QMCM</Instrument>
+    <InstrumentClass>&#x4;</InstrumentClass>
+    <ISIN>JMN201400054</ISIN>
+    <Description>5JAMAICA PRODUCERS GROUP SENIOR SECURED NOTES DUE 2019</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2019-09-30T00:00:00</MaturityDate>
+    <ValuationMethod>3</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2014-09-15T00:00:00</IssueDate>
+    <InflationIndex>C</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00060</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JPGVR2019</DisplayName>
+    <NumberOfDaysInYear>365</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>4</BondFormulaDecimalPlaces>
+    <CouponRate>8.85</CouponRate>
+    <Classification>BOND MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>39</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>GUVV</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP004681012</ISIN>
+    <Description>!ACCESS FINANCIAL SERVICES LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00001</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>AFS</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>40</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>BTCA</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP161681094</ISIN>
+    <Description>BARITA INVESTMENTS LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00011</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>BIL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>41</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>QDVJ</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP165551079</ISIN>
+    <Description>BERGER PAINTS JAMAICA LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00012</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>BRG</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>42</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>GMPS</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP170271069</ISIN>
+    <Description>BLUE POWER GROUP LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00038</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>BPOW</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>43</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>MDEQ</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP192311026</ISIN>
+    <Description>CABLE &amp; WIRELESS JAMAICA LTD</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00013</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>CWJ</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>COMMUNICATIONS</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>44</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>LFCL</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP210381076</ISIN>
+    <Description>CARGO HANDLERS LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00007</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>CHL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>45</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>BOVU</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP210961059</ISIN>
+    <Description> CARIBBEAN CEMENT COMPANY LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00014</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>CCC</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>46</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>RWOE</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP2115K1063</ISIN>
+    <Description>%CARIBBEAN PRODUCERS (JAMAICA) LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00042</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>CPJ</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>RETAIL</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>47</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>DQUS</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP213891048</ISIN>
+    <Description>CARRERAS LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00015</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>CAR</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>RETAIL</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>48</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>WPCW</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP283451095</ISIN>
+    <Description>CIBONEY GROUP LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00016</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>CBNY</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>TOURISM</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>49</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>DHQU</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP3506L1091</ISIN>
+    <Description>&#x1F;CARIBBEAN 2 WORLD MUSIC LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00062</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>MUSIC</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>50</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>WFWY</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP360321039</ISIN>
+    <Description>DOLPHIN COVE LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00044</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>DCOVE</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>TOURISM</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>51</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>NOQI</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP4171A1054</ISIN>
+    <Description>AMG PACKAGING &amp; PAPER LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00083</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>AMG</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>52</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>TGFH</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP4744S1045</ISIN>
+    <Description>1834 INVESTMENTS LIMITED </Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00010</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>1834</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>COMMUNICATIONS</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>53</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>JPYQ</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP4775P1024</ISIN>
+    <Description>'GENERAL ACCIDENT INSURANCE CO. JA. LTD.</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00045</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>GENAC</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>INSURANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>54</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>YYRA</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP4897P1050</ISIN>
+    <Description>GRACEKENNEDY LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00017</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>GK</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>CONGLOMERATES</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>55</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>OHLJ</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP5178T1046</ISIN>
+    <Description>HONEY BUN (1982) LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00046</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>HONBUN</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>56</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>WPQE</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP5892N1021</ISIN>
+    <Description>JAMAICA BROILERS GROUP</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00018</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JBG</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>57</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>MYKN</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP589351007</ISIN>
+    <Description>&#x1F;JAMAICA PRODUCERS GROUP LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00021</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JP</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>CONGLOMERATES</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>58</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>TPYL</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP589361162</ISIN>
+    <Description>JAMAICA PUBLIC SERVICE 7%</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JPS7</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>59</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>SQWG</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP589361246</ISIN>
+    <Description>JPSCO 5% PREFERENCE C</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JPS5C</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>60</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>NDIF</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP589361329</ISIN>
+    <Description>JAMAICA PUBLIC SERVICE 6%</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JPS6</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>61</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>TTWE</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP589361402</ISIN>
+    <Description>JPSCO 5% PREFERENCE D</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JPS5D</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>62</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>JDPN</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP5894D1021</ISIN>
+    <Description>JAMAICAN TEAS LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00048</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>JAMT</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>63</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>IEOH</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP607311090</ISIN>
+    <Description>KINGSTON PROPERTIES LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00024</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>KPREIT</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>64</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>XNHQ</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP607321073</ISIN>
+    <Description>KINGSTON WHARVES</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00025</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>KW</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>65</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>WOGL</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP620981010</ISIN>
+    <Description> LASCO FINANCIAL SERVICES LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00053</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>LASF</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>66</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>NXYU</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP620991092</ISIN>
+    <Description>LASCO MANUFACTURING LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00019</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>LASM</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>67</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>TPNS</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP6209P1033</ISIN>
+    <Description>LASCO DISTRIBUTORS LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00052</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>LASD</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>JUNIOR MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>RETAIL</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>68</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>AGCR</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP6464F1050</ISIN>
+    <Description>MAYBERRY INVESTMENTS LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00064</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>MIL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>69</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>PPVB</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP693911035</ISIN>
+    <Description>&#x1F;MONTEGO BAY ICE COMPANY LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00110</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>MBICE</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>70</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>OQTU</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP7080Q1034</ISIN>
+    <Description>(NATIONAL COMMERCIAL BANK JAMAICA LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00026</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>NCBJ</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>71</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>UIIT</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP744941080</ISIN>
+    <Description> PALACE AMUSEMENT COMPANY LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00113</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>PAL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>72</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>PHPX</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP749981081</ISIN>
+    <Description>$PAN JAMAICA INVESTMENT TRUST COMPANY</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00027</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>PJAM</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>CONGLOMERATES</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>73</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>FPJH</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP792231061</ISIN>
+    <Description>PROVEN INVESTMENTS LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00056</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>PROVEN</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>USD MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>74</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>LHXG</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP792921018</ISIN>
+    <Description>PULSE INVESTMENTS LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>PULS</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>75</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>BQQP</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP798411055</ISIN>
+    <Description>RADIO JAMAICA LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00028</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>RJR</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>COMMUNICATIONS</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>76</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>ARPJ</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP831721098</ISIN>
+    <Description>SALADA FOODS LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>SALF</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>77</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>LLUX</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP8537F1042</ISIN>
+    <Description>SCOTIA GROUP JAMAICA LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00031</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>SGJ</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>78</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>GKCC</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP8537X1057</ISIN>
+    <Description>"SCOTIA INVESTMENTS JAMAICA LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00032</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>SIJL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>79</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>REIQ</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP8579T1037</ISIN>
+    <Description>SEPROD GROUP LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00033</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>SEP</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>80</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>HNBA</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP8805B1082</ISIN>
+    <Description>SUPREME VENTURES LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00034</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>SVL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>81</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>WVUJ</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>LCP792231142</ISIN>
+    <Description>=PROVEN INVESTMENTS LIMITED CUMULATIVE REDEEMABLE 8% PREFERENC</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>PROVEN8</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>82</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>MFOS</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>TTP939111089</ISIN>
+    <Description>TRINIDAD CEMENT LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>TCL</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>84</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>PRVN</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JMP792231061</ISIN>
+    <Description>PROVEN INVESTMENTS LIMITED.</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00001</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>PROVENJA</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>85</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>PORT</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201500068</ISIN>
+    <Description>PORTLAND JSX LIMITED</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00065</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>PJX</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>FINANCE</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>86</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>MCL9</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201300030</ISIN>
+    <Description>#MARGARITAVILLE CARIBBEAN LIMITED 9%</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-07-23T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference>01A00063</FirstTradeReference>
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>MCL9</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>TOURISM</Sector>
+    <SecurityType>PREFERENCE</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>87</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>GAKR</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>JME201600050</ISIN>
+    <Description>TEST INSTRUMENT</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-11-03T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>TEST</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>MANUFACTURING</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+  <InstrumentData>
+    <InstrumentId>88</InstrumentId>
+    <TradingSessionId>0</TradingSessionId>
+    <InstrumentTypeId>1</InstrumentTypeId>
+    <GroupId>0</GroupId>
+    <FutureFeeId>1</FutureFeeId>
+    <OptionFeeId>0</OptionFeeId>
+    <DeliveryFeeId>0</DeliveryFeeId>
+    <Market />
+    <MarketShard>1</MarketShard>
+    <Instrument>ETWV</Instrument>
+    <InstrumentClass>&#xE;</InstrumentClass>
+    <ISIN>345687256822</ISIN>
+    <Description>TAJMANI'S EARTH FOODS</Description>
+    <Onscreen>false</Onscreen>
+    <MaturityDate>2030-12-31T00:00:00</MaturityDate>
+    <ValuationMethod>0</ValuationMethod>
+    <NominalDivisor>1</NominalDivisor>
+    <IssueDate>2016-11-17T00:00:00</IssueDate>
+    <InflationIndex>&#x0;</InflationIndex>
+    <DividendPaid>false</DividendPaid>
+    <UnderlyingId>0</UnderlyingId>
+    <OptionExerciseIsPercentage>false</OptionExerciseIsPercentage>
+    <OptionExerciseCost>0</OptionExerciseCost>
+    <GroupMargin>0</GroupMargin>
+    <VAT>false</VAT>
+    <SettlementMargin>0</SettlementMargin>
+    <IsPhysicalSettlement>false</IsPhysicalSettlement>
+    <GroupCode />
+    <TopFourty>false</TopFourty>
+    <TopOneHundred>false</TopOneHundred>
+    <ApplyMTMAfterExpiry>false</ApplyMTMAfterExpiry>
+    <IsReplicaBond>false</IsReplicaBond>
+    <ReferenceCpiRate>0</ReferenceCpiRate>
+    <MinimumInitiationFee>0</MinimumInitiationFee>
+    <FirstTradeReference />
+    <ZeroFeeAutoCloseTrades>false</ZeroFeeAutoCloseTrades>
+    <IdMarginParameterInstrument>0</IdMarginParameterInstrument>
+    <CountryCode>JM</CountryCode>
+    <DisplayName>TAJM</DisplayName>
+    <NumberOfDaysInYear>0</NumberOfDaysInYear>
+    <BondFormulaDecimalPlaces>0</BondFormulaDecimalPlaces>
+    <CouponRate>0</CouponRate>
+    <Classification>MAIN MARKET</Classification>
+    <SettlementDays>3</SettlementDays>
+    <ValidatedAtCSD>true</ValidatedAtCSD>
+    <PropTradingAllowed>false</PropTradingAllowed>
+    <VettingAgentName />
+    <VettingAgentContact />
+    <ShareHoldingPercentageLimit>0</ShareHoldingPercentageLimit>
+    <Sector>OTHER</Sector>
+    <SecurityType>ORDINARY</SecurityType>
+  </InstrumentData>
+</ArrayOfInstrumentData>
