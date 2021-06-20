@@ -1,0 +1,54 @@
+Execute commands remotely with Remote Desktop
+You can execute UNIX commands and scripts on client computers.
+
+Execute a single UNIX command
+Using the UNIX Command window, you can send a single command to the selected client computers. The command is executed using the bash shell.
+
+In Remote Desktop , select a computer list in the sidebar of the main window, select one or more computers, then choose Manage > Send UNIX Command.
+
+Enter the command.
+
+For a multiline script, enter each command on its own line.
+
+To break up a single-line command for better readability, use a backslash (\) to begin a new line.
+
+Select the permissions used to execute the command. You can execute the command as any of the following users:
+
+The currently logged-in user
+
+Another user on the client computer
+
+The system user whose short name is root
+
+Execute shell scripts
+Using Remote Desktop, you can execute shell scripts on client computers. Shell scripts are files containing a collection of UNIX commands that are executed in sequence.
+
+The shell script must already be on the client computers, or you can use the Copy Items command to copy the script file to the client computers, then execute it using the Send UNIX Command.
+
+Run your script as root, or another user with root-level privileges, by entering “root” in the specified user field of the task dialog. (You don’t need to have the root account enabled to specify the root user.) Running a UNIX command as the current user fails if the target computer is at the login window, because there is no current user. Never use sudo or su to do tasks as the root user; they are interactive and expect further input and response from your script.
+
+Prepare and save your script.
+
+Make sure your script is saved as plain text with UNIX line breaks.
+
+In Remote Desktop , select a computer list in the sidebar of the main window, select one or more computers, then use the Copy Items command to copy the script file to the computers.
+
+For information, see Copy files.
+
+After copying the script, choose Manage > Send UNIX Command, then execute the script by typing:
+
+sh script_name pathname
+Click Send.
+
+Execute a compiled AppleScript script
+You can execute a compiled AppleScript script.
+
+Save the script as an application.
+
+In Remote Desktop , select a computer list in the sidebar of the main window, select one or more computers, then use the Copy Items command to copy the application to the computers, and select the Open Items option in the Copy Items dialog.
+
+See also
+About networksetup in Remote Desktop
+About systemsetup in Remote Desktop
+AppleScript basics for Remote Desktop
+Use the Remote Desktop AppleScript dictionary
