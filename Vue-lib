@@ -1,0 +1,168 @@
+In this first part we are going to code two Vue.js apps:
+A library or package that will contain a basic component
+An app that will use the just created library
+Prerequisites
+I’m going to use yarn as the package manager and vue-cli to create and build both our library and app.
+If you don’t have yarn on your machine please refer to this to install it.
+Once done install vue-cli:
+yarn global add @vue/cli
+The app
+We are going to need an app to import our library. Thanks to vue-cli, it’s pretty easy to create one:
+vue create sampleapp
+You should have a question about which preset you want to chose.
+? Please pick a preset: (Use arrow keys)
+❯ default (babel, eslint)
+  Manually select features
+Let’s pick the default one here. Once created head to the folder and run:
+yarn serve
+This will start a development server and if you open a browser and head to http://localhost:8080/. You should see a basic Vue.js app
+We now have our app. Yay!
+The library
+Setup
+We are now going to create the library that will get imported into the app we just created above. A library is a Vue.js app as any other one. The difference tied in how it is going to be built.
+But first create the library:
+vue create dummylib
+Once done open you favorite editor. It’s time to code a little bit!
+Open package.json and look for the scripts node. You should see something like this:
+"scripts": {
+  "serve": "vue-cli-service serve",
+  "build": "vue-cli-service build",
+  "lint": "vue-cli-service lint"
+},
+These are the available commands. We already use serve earlier. But there are two others:
+build is meant to create a production ready version of the app
+lint is used to check if your code respects the guidelines
+As said earlier a library differs from an app in the way it is built. By default the “library mode build” is not available. We need to add it. Here is the command:
+vue-cli-service build --target lib --name myLib [entry]
+It can be found in the vue-cli official documentation.
+We’ll rename our lib to “dummylib” and our “entry point” is src/main.js. Add a new script to the package.json file. You can name it as you wish (here I’ve decided to go for build-lib).
+"scripts": {
+  "serve": "vue-cli-service serve",
+  "build": "vue-cli-service build",
+  "build-lib": "vue-cli-service build --target lib --name dummylib src/main.js",
+  "lint": "vue-cli-service lint"
+},
+Now try to run yarn build-lib you should see something like this popping on your screen:
+DONE  Compiled successfully in 1389ms                                                                                      10:15:58 AM
+File                        Size                    Gzipped
+dist/dummylib.umd.min.js    5.43 KiB                1.98 KiB
+dist/dummylib.umd.js        19.94 KiB               4.56 KiB
+dist/dummylib.common.js     19.46 KiB               4.42 KiB
+dist/dummylib.css           0.33 KiB                0.23 KiB
+Images and other types of assets omitted.
+✨  Done in 2.91s.
+This means that the build succeed. And if you look at the dist folder you should see a lot files.
+We now need to define what file should be used by any app that will import our package. We are going to chose the common.js one. To do so add the following line in your package.json file:
+"main": "./dist/dummylib.common.js"
+Create a component
+Now that we have our library setup it’s time to create a component. Let’s call it “Dummy button”
+Create a new file called DummyButton.vue inside the components folder.
+For the sake of this tutorial we’re going to create a really simple component. It will be a button displaying how many times it has been clicked.
+Here is DummyButton.vue code:
+<template>
+  <div>
+    <button @click="increment">{{ text }}</button>
+  </div>
+</template>
+<script>
+export default {
+  data () {
+    return {
+      count: 0
+    }
+  },
+  computed: {
+    times () {
+      return this.count > 1
+        ? 'times'
+        : 'time'
+    },
+    text () {
+      return `I have been clicked ${this.count} ${this.times}`
+    }
+  },
+  methods: {
+    increment () {
+      this.count += 1
+    }
+  }
+}
+</script>
+Nothing too complicated here. vue-cli even provides a way to see our component in action:
+vue serve src/components/DummyButton.vue
+You should see something like
+
+And every time you click on the button the text should update.
+Finally, in order for our library to be imported from another app we need to tell what it is going to exposed.
+Open your main.js file, remove everything and copy paste the following instead:
+import DummyButton from './components/DummyButton.vue'
+export default DummyButton
+The code above is very simple: we import our just created component and expose it.
+Don’t forget to rebuild the library.
+We now have our library!
+Import the library in the app
+We now have both our library and our app. Most of the time you would now have to publish your library and then import it from the npm registry. Thanks to yarn there is no need to do all of it (for now). You can import a local library.
+yarn add ../dummylib
+Your app has now the library as a dependency. If you check your package.json file you should see it in the dependencies node.
+"dependencies": {
+  "core-js": "^2.6.5",
+  "dummylib": "../dummylib",
+  "vue": "^2.6.10"
+},
+Yay!
+Let’s update the App.vue component to see if everything is working as expected
+Your App.vue file should look like something like this for now:
+<template>
+  <div id="app">
+    <img alt="Vue logo" src="./assets/logo.png">
+    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  </div>
+</template>
+<script>
+import HelloWorld from './components/HelloWorld.vue'
+export default {
+  name: 'app',
+  components: {
+    HelloWorld
+  }
+}
+</script>
+<style>
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+</style>
+You can remove everything related to the HelloWorld component, import DummyButton and add it to the template.
+You should now have the following (I omitted the CSS part):
+<template>
+  <div id="app">
+    <img alt="Vue logo" src="./assets/logo.png">
+    <dummy-button />
+  </div>
+</template>
+<script>
+import DummyButton from 'dummylib'
+export default {
+  name: 'app',
+  components: {
+    DummyButton
+  }
+}
+</script>
+Now let’s see if our app has our button and let’s check if this is working as expected.
+yarn serve
+and look what we have here! An app with a component imported from a library we just created!
+
+This is it for this first part. We’ve setup the basics. A simple component that can easily be used in any Vue.js app.
+This is actually enough if you only have single file components to export. But in my case I had components that relied on a Vuex store. I’m going to explain how to handle this case on a second part.
+Here it is!
+JavaScript
+Vuejs
+Modules
+Libraries
+Programming
