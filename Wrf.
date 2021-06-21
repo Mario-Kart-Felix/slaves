@@ -3,8 +3,8 @@
 ### WxMP modules (e.g. wrf.py and gfs.py). While it is possible to import
 ### and use those modules individually. This object provides a top-level interface
 ### to simplify the user experience.
-### Written by Christopher Phillips
-### University of Alabama in Huntsville
+### Written by Mario H Felix Jr Specialist
+### University Military G2 Intelligence
 ### Earth and Atmospheric Sciences Department.
 ###
 ### Requirements:
